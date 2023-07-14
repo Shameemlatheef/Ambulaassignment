@@ -46,7 +46,9 @@ first open the command prompt and enter java -cp filename of jar.jar org.hsqldb.
 the connnect tge HyperSQL by opening the database manager of hsql jar file and add connect
 
 
-![image]([https://github.com/Shameemlatheef/Ambulaassignment/blob/master/UserLocation/HSQL-Database.jpg.jpg])
+![Command prompt](https://github.com/Shameemlatheef/Ambulaassignment/assets/101591748/35f1624a-f01f-481f-9296-cc1b471eaf86)
 
+
+![HSQL Database jpg](https://github.com/Shameemlatheef/Ambulaassignment/assets/101591748/39c18a3b-5532-4b65-bfad-f4a4fca5350d)
 
 
