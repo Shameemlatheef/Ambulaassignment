@@ -44,6 +44,9 @@ User location assignment from ambula career
 first open the command prompt and enter java -cp filename of jar.jar org.hsqldb.Server --database dbname
 
 the connnect tge HyperSQL by opening the database manager of hsql jar file and add connect
-https://github.com/Shameemlatheef/Ambulaassignment/blob/master/UserLocation/Command%20prompt.jpeg
+
+
+![image]([(https://github.com/Shameemlatheef/Ambulaassignment/blob/master/UserLocation/Command%20prompt.jpeg)https://github.com/Shameemlatheef/Ambulaassignment/blob/master/UserLocation/Command%20prompt.jpeg])
+
 
 
