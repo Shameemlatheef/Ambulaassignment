@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.example.Service","c":"ReaderServiceimpl","l":"findingnearestlocations()"},{"p":"com.example.Service","c":"ReaderServiceimpl","l":"ReaderServiceimpl()","u":"%3Cinit%3E()"}];updateSearchResults();
