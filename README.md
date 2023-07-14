@@ -40,3 +40,10 @@ User location assignment from ambula career
 -   Hibernate
 -   Gradle(Groovy)
 -   HyperSQL
+#HyperSQL
+first open the command prompt and enter java -cp filename of jar.jar org.hsqldb.Server --database dbname
+
+the connnect tge HyperSQL by opening the database manager of hsql jar file and add connect
+https://github.com/Shameemlatheef/Ambulaassignment/blob/master/UserLocation/Command%20prompt.jpeg
+
+
